@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-27T13:53:55 IST" name="Suite" finished-at="2023-05-27T13:54:04 IST" duration-ms="9078">
+    <groups>
+    </groups>
+    <test started-at="2023-05-27T13:53:55 IST" name="Test" finished-at="2023-05-27T13:54:04 IST" duration-ms="9078">
+      <class name="testClassPackage.post_tc_11">
+        <test-method signature="execute()[pri:0, instance:testClassPackage.post_tc_11@571c5681]" started-at="2023-05-27T13:53:55 IST" name="execute" finished-at="2023-05-27T13:54:03 IST" duration-ms="7610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+      </class> <!-- testClassPackage.post_tc_11 -->
+      <class name="testClassPackage.post_tc_12">
+        <test-method signature="execute()[pri:0, instance:testClassPackage.post_tc_12@4397ad89]" started-at="2023-05-27T13:54:03 IST" name="execute" finished-at="2023-05-27T13:54:04 IST" duration-ms="1186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+      </class> <!-- testClassPackage.post_tc_12 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
